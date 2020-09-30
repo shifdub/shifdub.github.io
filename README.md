@@ -13,4 +13,8 @@ I'm Interested in java development and I am currently attending the deep Dive Co
 
 * [Facebook](https://www.facebook.com/shifdub)
 
+ > A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
+ > 
+ > Every line (blank or not) of a blockquote begins with `>`, followed by a space.
+
 
