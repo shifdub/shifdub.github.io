@@ -6,6 +6,8 @@ I'm Interested in java development and I am currently attending the deep Dive Co
 
 ## Current Projects
 
-
+ * Hello World: Java console application
+      
+ * Hello World: Android app
 
 ## Links
