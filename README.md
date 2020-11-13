@@ -1,4 +1,3 @@
-# Isaac Dominguez
 
 ## Introduction
 
