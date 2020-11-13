@@ -19,7 +19,7 @@ I'm Interested in java development and I am currently attending the deep Dive Co
 
 {% assign public_repositories = site.github.public_repositories | where: 'fork', false | sort: 'updated_at' | reverse %}
 {% for repo in public_repositories limit: 10 %}
-* [{{reo.name}}]({{ repo.html_url }})
+* [{{repo.name}}]({{ repo.html_url }})
 {% endfor %}
 
 
