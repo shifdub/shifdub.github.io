@@ -13,7 +13,7 @@ I'm Interested in java development and I am currently attending the deep Dive Co
 > * [Facebook](https://www.facebook.com/shifdub)
 
 
-//opening paragraph
+##opening paragraph
 
 ### Recently updated repositories
 
@@ -23,6 +23,6 @@ I'm Interested in java development and I am currently attending the deep Dive Co
 {% endfor %}
 
 
-//##links section
+##links section
 
 
